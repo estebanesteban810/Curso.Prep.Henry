@@ -1,0 +1,13 @@
+Cuestionario 
+
+	* Variables: es como un recipente donde voy almacenar una informacion la cual voy a  usar mas adelante.
+
+	* Strings: son una cadena de texto o caracteres que siempre iran delimitados por unas comillas.
+
+	* Funciones (argumentos, `return`): argumentos - son palabras que se le pueden agregar a las variables y van separados por una coma.
+
+	return: sirve para retornar el resultado de algo que hayamos invocado.
+
+	* Declaraciones `if`: es la forma en que verificamos si algo es true o false
+
+	* Valores booleanos (`true`, `false`): son operadores de comparacion y se invocan dependiendo del resultado de la operacion  
